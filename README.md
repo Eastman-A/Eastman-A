@@ -1,0 +1,1 @@
+- Focused on how to bring the power of Azure resources into the hands of our clients end-users using low-code front-end solutions
